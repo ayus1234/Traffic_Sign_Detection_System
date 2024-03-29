@@ -4,7 +4,7 @@ This project implements a traffic sign classification system using Convolutional
 # Output
 
 ## Screenshot 1
-![Screenshot (312)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/88f7c28d-9d7b-4e9d-bcbd-d2fdeb970b29)
+![Screenshot (312)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/db779b23-5a8f-4c40-9964-20b2cbcc22d2)
 
 ## Screenshot 2
 ![Screenshot (309)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/44f3d4ba-eecc-4789-b441-f359982708ea)
