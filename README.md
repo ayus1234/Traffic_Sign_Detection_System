@@ -76,7 +76,3 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to contribute to this project.
-
-## License
-
-This project is open source and available under the MIT License.
