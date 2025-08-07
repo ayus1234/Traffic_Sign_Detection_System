@@ -91,7 +91,7 @@ Speed Limit Sign Prediction
 
 ![Screenshot (311)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/8a70bee6-24f2-404b-861a-9235846f7db5)
 
-GUI correctly classifies the image as "Speed limit (30km/h)".
+*GUI correctly classifies the image as "Speed limit (30km/h)".*
 
 ## License
 
