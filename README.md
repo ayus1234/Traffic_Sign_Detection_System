@@ -73,6 +73,6 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 ## Screenshot 6
 ![Screenshot (311)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/8a70bee6-24f2-404b-861a-9235846f7db5)
 
-## Contributing
+## License
 
-Feel free to fork this repository and submit pull requests to contribute to this project.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in accordance with the terms of the license.
