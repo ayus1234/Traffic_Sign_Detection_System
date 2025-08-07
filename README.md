@@ -75,4 +75,5 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in accordance with the terms of the license.
+- This project is licensed under the [MIT License](LICENSE).
+- You are free to use, modify, and distribute this software in accordance with the terms of the license.
