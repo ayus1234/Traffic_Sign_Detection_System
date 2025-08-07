@@ -34,7 +34,6 @@ A deep learning-based system that can accurately detect and classify traffic sig
 
 1. Clone this repository
 
-   
 2. Install the required dependencies:
    ```bash
    pip install tensorflow keras numpy pandas opencv-python matplotlib jupyter
