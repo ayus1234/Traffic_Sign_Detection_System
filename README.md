@@ -63,10 +63,12 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 
 ### Accuracy Plot
 ![Screenshot 2024-03-30 003120](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/fc944e83-f7c8-41e7-ae90-e380e4e5f12d)
+
 *Line graph visualizing training vs validation accuracy over training epochs.*
 
 ### Loss Plot
 ![Screenshot 2024-03-30 003211](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/9f7d4c5f-7df4-49aa-b08f-2b8ec7e411d6)
+
 *Line graph showing the decrease in training and validation loss over time.*
 
 ### Yield Sign Prediction
