@@ -87,7 +87,7 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 
 *GUI successfully identifies and labels the uploaded image as "Road work".*
 
-Speed Limit Sign Prediction
+### Speed Limit Sign Prediction
 
 ![Screenshot (311)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/8a70bee6-24f2-404b-861a-9235846f7db5)
 
