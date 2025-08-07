@@ -58,29 +58,39 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 ## Results and Screenshots
 
 ### Epoch-wise Training Output
+
 ![Screenshot (312)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/db779b23-5a8f-4c40-9964-20b2cbcc22d2)
+
 *Training progress log showing accuracy and loss values per epoch in Jupyter Notebook.*
 
 ### Accuracy Plot
+
 ![Screenshot 2024-03-30 003120](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/fc944e83-f7c8-41e7-ae90-e380e4e5f12d)
 
 *Line graph visualizing training vs validation accuracy over training epochs.*
 
 ### Loss Plot
+
 ![Screenshot 2024-03-30 003211](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/9f7d4c5f-7df4-49aa-b08f-2b8ec7e411d6)
 
 *Line graph showing the decrease in training and validation loss over time.*
 
 ### Yield Sign Prediction
+
 ![Screenshot (309)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/6305f186-944c-47e6-907c-58a30b2623e2)
+
 *GUI displays the predicted label "Yield" after classifying an uploaded image.*
 
 ### Road Work Sign Prediction
+
 ![Screenshot (310)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/d66c2b6c-fefb-4b5f-bf70-5096424e111d)
+
 *GUI successfully identifies and labels the uploaded image as "Road work".*
 
 Speed Limit Sign Prediction
+
 ![Screenshot (311)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/8a70bee6-24f2-404b-861a-9235846f7db5)
+
 GUI correctly classifies the image as "Speed limit (30km/h)".
 
 ## License
