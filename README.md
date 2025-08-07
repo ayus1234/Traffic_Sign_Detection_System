@@ -33,10 +33,13 @@ A deep learning-based system that can accurately detect and classify traffic sig
 ## Installation
 
 1. Clone this repository
+
+   
 2. Install the required dependencies:
    ```bash
    pip install tensorflow keras numpy pandas opencv-python matplotlib jupyter
    ```
+   
 3. Launch Jupyter Notebook to run the GUI:
    ```bash
    jupyter notebook GUI.ipynb
@@ -55,14 +58,14 @@ The system uses a Convolutional Neural Network (CNN) architecture trained on a c
 
 ## Results and Screenshots
 
-## Epoch-wise Training and Validation Metrics
+### Epoch-wise Training and Validation Metrics
 ![Screenshot (312)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/db779b23-5a8f-4c40-9964-20b2cbcc22d2)
 
-## Prediction Results Displayed
+### Prediction Results Displayed
 ![Screenshot 2024-03-30 003120](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/fc944e83-f7c8-41e7-ae90-e380e4e5f12d)
 ![Screenshot 2024-03-30 003211](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/9f7d4c5f-7df4-49aa-b08f-2b8ec7e411d6)
 
-## Real-Time Classification Output
+### Real-Time Classification Output
 ![Screenshot (309)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/6305f186-944c-47e6-907c-58a30b2623e2)
 ![Screenshot (310)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/d66c2b6c-fefb-4b5f-bf70-5096424e111d)
 ![Screenshot (311)](https://github.com/ayus1234/Traffic_Sign_Detection_System/assets/107507481/8a70bee6-24f2-404b-861a-9235846f7db5)
